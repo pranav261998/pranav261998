@@ -1,6 +1,7 @@
 ### Here it's I am working on it!!!! 👋
 
 Here are some ideas to get you started:
+<marquee> looking for JOB opportunity as a DevOps Engineer </marquee>
 
 - 🔭 I’m currently working on ...DevOps Engineer
 - 🌱 I’m currently learning ...AWS and DevOps Tools
