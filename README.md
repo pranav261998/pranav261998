@@ -1,9 +1,6 @@
 ### Here it's I am working on it!!!! 👋
-<body>
-  <head>
-    <html>
+
 Here are some ideas to get you started:
-<marquee> looking for JOB opportunity as a DevOps Engineer </marquee>
 
 - 🔭 I’m currently working on ...DevOps Engineer
 - 🌱 I’m currently learning ...AWS and DevOps Tools
@@ -13,6 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[LinkedIN](https://www.linkedin.com/in/pranavsai-kotla-8bb5b01b2/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...i am half finish
-      </body>
-  </head>
-    </html>
+
